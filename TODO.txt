@@ -1,6 +1,19 @@
 Use this file to keep track of what needs to be done.
 Add anything that isn't included.
 
+-Gravity (Seto), to be added after planet rendering
+	-Possible interactions
+		-Asteroids, if we're feeling really lucky
+		-Interplanetary interactions 
+		-Spaceships? Landing?
+	-Distances
+		-Based off the centres of each planet
+		-Will dictate the forces of attraction
+	-Mass
+		-Relative to the diameters of each planet
+		-Mass of spaceship/viewpoint? What will the main "character" be?
+
+
  - Graphics System (Sean)
 	- Implement some basic object renderer components
 	- Implement any missing events
